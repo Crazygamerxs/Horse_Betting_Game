@@ -1,0 +1,11 @@
+﻿  Functions.c
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Header.h(44,2): warning C4091: 'extern ': ignored on left of 'User' when no variable is declared
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(22,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(48,28): warning C4305: '=': truncation from 'double' to 'float'
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(50,28): warning C4305: '=': truncation from 'double' to 'float'
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(52,28): warning C4305: '=': truncation from 'double' to 'float'
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(61,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(157,30): warning C4553: '==': result of expression not used; did you intend '='?
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(200,50): warning C4020: 'WinningScreen': too many actual parameters
+L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\Horse Betting Game - Trial\Functions.c(204,21): warning C4098: 'ReplayGame': 'void' function returning a value
+  Horse Betting Game - Trial.vcxproj -> L:\College Work\Semester-2\Team Based Software\Group Project\Code\Horse Betting Game - Trial\x64\Debug\Horse Betting Game - Trial.exe
